@@ -4,9 +4,15 @@ This repository contains the source code for an interactive, single-page web app
 
 ## 🚀 View the Live Guide
 
-You can view and interact with the live version of this guide here:
+You can view and interact with the live version of this guide at:
 
-[**https://CalliztoDarkSymphony.github.io/video-upscaling-guide/**]
+[**https://calliztodarksymphony.github.io/video-upscaling-guide/**](https://calliztodarksymphony.github.io/video-upscaling-guide/)
+
+## 🎬 See the Results in Action
+
+This guide was created by Callizto Dark Symphony. You can see the results of this upscaling workflow and other creative projects on the official YouTube channel:
+
+➡️ [**Visit the Callizto Dark Symphony YouTube Channel**](https://www.youtube.com/@CalliztoDarkSymphony)
 
 ## ✨ About The Guide
 
